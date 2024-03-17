@@ -1,0 +1,6 @@
+# Compiled configs
+*.json
+*.jsonl
+
+# Only include log file in testdata
+!testdata/*.jsonl
